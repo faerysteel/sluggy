@@ -1,0 +1,22 @@
+{
+  "name": "faerysteel/sluggy",
+  "description": "Sluggy provides a formatter to slugify text.",
+  "type": "drupal-module",
+  "homepage": "https://github.com/faerysteel/sluggy",
+  "authors": [
+    {
+      "name": "Lisa Godare",
+      "homepage": "https://github.com/faerysteel",
+      "role": "Creator"
+    }
+  ],
+  "support": {
+    "issues": "https://github.com/faerysteel/sluggy/issues",
+    "source": "https://github.com/faerysteel/sluggy"
+  },
+  "license": "GPL-2.0+",
+  "minimum-stability": "dev",
+  "require": {
+    "cocur/slugify": "^3.0.1"
+  }
+}
